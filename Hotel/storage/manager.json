@@ -1,0 +1,27 @@
+{
+  "4": {
+    "fileName": "employees",
+    "salary": 12000,
+    "department": "Manager",
+    "lName": "befikadu",
+    "fName": "Abenezer",
+    "id": 4,
+    "password": "abcd"
+  },
+  "5": {
+    "fileName": "employees",
+    "salary": 12000,
+    "department": "Manager",
+    "lName": "befikadu",
+    "fName": "Bekur",
+    "id": 5
+  },
+  "6": {
+    "fileName": "employees",
+    "salary": 12000,
+    "department": "Manager",
+    "lName": "befikadu",
+    "fName": "Henok",
+    "id": 6
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "1": {
+    "fileName": "employees",
+    "salary": 12000,
+    "department": "Restaurant",
+    "lName": "Yosef",
+    "fName": "Samuel",
+    "id": 1
+  },
+  "2": {
+    "fileName": "employees",
+    "salary": 12000,
+    "department": "Restaurant",
+    "lName": "Kedir",
+    "fName": "Abdulmejid",
+    "id": 2
+  }
+}
